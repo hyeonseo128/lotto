@@ -1,0 +1,19 @@
+/* 전체 레이아웃 */
+body {
+  background-color: #f8f9fa;
+}
+
+/* 카드 스타일 */
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 결과 표시 */
+#results {
+  margin-top: 20px;
+}
+
+#host-login {
+  margin-top: 20px;
+}
